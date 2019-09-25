@@ -10,7 +10,7 @@ set -e
 # pip3 install numpy==1.15.0
 # pip3 install seaborn==0.9.0
 # pip3 install bokeh==0.13.0
-pip3 install plotly
+pip3 install plotly==4.1.1
 
 
 # Include datasets in the image
